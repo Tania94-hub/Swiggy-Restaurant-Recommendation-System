@@ -199,7 +199,6 @@ Streamlit Application
 
 ### Tania Banerjee
 
-* Scrum Master Certified
 * Python Certified
 * SQL Certified
 * Advanced Excel Certified
